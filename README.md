@@ -23,9 +23,7 @@ Its purpose is to document my learning journey, demonstrate technical methodolog
 «Disclaimer: Every lab documented here was performed exclusively in authorized educational environments.»
 
 ---
-
-📂 Estrutura | Repository Structure
-
+```text
 Solved-labs/
 ├── README.md
 ├── htb_labs/
@@ -33,8 +31,7 @@ Solved-labs/
 ├── owasp_labs/
 ├── portswigger_labs/
 └── thm_labs/
-
----
+```
 
 🎯 Objetivos | Objectives
 
