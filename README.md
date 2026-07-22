@@ -26,6 +26,8 @@ Its purpose is to document my learning journey, demonstrate technical methodolog
 ```text
 Solved-labs/
 ├── README.md
+├── template.md
+├── images/
 ├── htb_labs/
 ├── offensive_security_labs/
 ├── owasp_labs/
