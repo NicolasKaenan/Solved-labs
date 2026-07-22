@@ -97,3 +97,19 @@ Desafio simples, porém um bom exercício para entender manipulação de JWT e u
 Este write-up tem finalidade exclusivamente educacional.
 
 O objetivo é demonstrar a metodologia utilizada, o raciocínio durante a análise e a documentação técnica do processo, respeitando as políticas da plataforma.
+
+---
+
+# Laboratório de Referência
+
+<div align="center">
+
+🛡️ **PortSwigger Web Security Academy**
+
+### JWT authentication bypass via unverified signature
+
+[🔗 Acessar laboratório](https://portswigger.net/web-security/jwt/lab-jwt-authentication-bypass-via-unverified-signature)
+
+</div>
+
+---
